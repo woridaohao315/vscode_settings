@@ -1,0 +1,71 @@
+{
+    "workbench.colorTheme": "Quiet Light",
+    "editor.formatOnPaste": true,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "editor.fontFamily": "Consolas",
+    "sync.gist": "87f8c13c18b6e86048a3115cd950cae4d3c2ed22",
+    "workbench.iconTheme": "file-icons",
+    "explorer.confirmDelete": false,
+    "git.path": "C:/Program Files/Git/cmd/git.exe",
+    "git.autofetch": true,
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "[vue]": {
+        "editor.defaultFormatter": "octref.vetur"
+    },
+    "vetur.format.defaultFormatter.html": "js-beautify-html",
+    "vetur.validation.template": false,
+    "vetur.format.defaultFormatter.js": "vscode-typ=script",
+    "vetur.format.defaultFormatterOptions": {
+        "js-beautify-html": {
+            "wrap_attributes": "auto"
+        },
+        "prettyhtml": {
+            "printWidth": 100,
+            "singleQuote": false,
+            "wrapAttributes": false,
+            "sortAttributes": false
+        }
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    //设置 匹配tag
+    "highlight-matching-tag.styles": {
+        "opening": {
+            "left": {
+                "underline": "yellow"
+            },
+            "right": {
+                "surround": "#155FFA"
+            },
+            "name": {
+                "highlight": "rgba(180, 20, 80, 0.3)"
+            }
+        },
+        "closing": {
+            "full": {
+                "custom": {
+                    "dark": {
+                        "borderWidth": "0 0 1px 0",
+                        "borderColor": "white",
+                        "borderStyle": "solid",
+                        "borderRadius": "4px",
+                        "right": "10px"
+                    },
+                    "light": {
+                        "borderWidth": "0 0 1px 0",
+                        "borderColor": "brown",
+                        "borderStyle": "solid",
+                        "borderRadius": "4px",
+                        "right": "10px"
+                    }
+                }
+            }
+        }
+    }
+
+}

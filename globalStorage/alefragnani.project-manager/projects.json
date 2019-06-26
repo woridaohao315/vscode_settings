@@ -1,0 +1,23 @@
+[
+	{
+		"name": "project_vue",
+		"rootPath": "d:\\project_vue",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "15.前端开发JS框架篇-Vue.js",
+		"rootPath": "d:\\善知堂\\15.前端开发JS框架篇-Vue.js",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	},
+	{
+		"name": "vue_pc",
+		"rootPath": "d:\\project_vue\\vue_pc",
+		"paths": [],
+		"group": "",
+		"enabled": true
+	}
+]
