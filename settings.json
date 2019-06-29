@@ -8,7 +8,6 @@
     },
     "editor.fontFamily": "Consolas",
     "sync.gist": "87f8c13c18b6e86048a3115cd950cae4d3c2ed22",
-    "workbench.iconTheme": "file-icons",
     "explorer.confirmDelete": false,
     "git.path": "C:/Program Files/Git/cmd/git.exe",
     "git.autofetch": true,
@@ -66,6 +65,8 @@
                 }
             }
         }
-    }
+    },
+    "git.enableSmartCommit": true,
+    "workbench.iconTheme": "file-icons"
 
 }
